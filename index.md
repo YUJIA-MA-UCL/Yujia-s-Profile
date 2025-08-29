@@ -1,6 +1,7 @@
 ---
 title: Projects
-layout: home
+nav_order: 1
+description: "Projects"
 ---
 **Hi! I'm Yujia! Welcome to My Portfolio!**
 ---
@@ -40,6 +41,12 @@ Airbnb平台‘90天’规管策略分析 ——
 基于S1影像的乌克兰战争城市损毁检测程序设计——
 
 *UCL-CASA0025运用大数据构建空间系统（Bulding Spatial Applications with Big Data）Group Project*
+
+---
+title: Research and Publications
+nav_order: 2
+description: "publications"
+---
 
 ## 6. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 
 

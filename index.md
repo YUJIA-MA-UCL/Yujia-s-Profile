@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: home
+layout: default
 nav_order: 1
 ---
 # Hi! I'm Yujia! Welcome to My Portfolio!
@@ -44,7 +44,7 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 ---
 
 title: Research and Publications
-layout: home
+layout: default
 nav_order: 2
 
 ---

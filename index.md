@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: home
+nav_order: 1
 ---
 # Hi! I'm Yujia! Welcome to My Portfolio!
 
@@ -42,8 +43,8 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 
 ---
 title: Research and Publications
+layout: home
 nav_order: 2
-description: "publications"
 ---
 
 ## 6. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 

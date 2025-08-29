@@ -4,9 +4,7 @@ layout: home
 ---
 **Hi! I'm Yujia! Welcome to My Portfolio!**
 ---
-title: Data Analysis Projects
-layout: data analysis projects
----
+
 #  My Growing Path As a Data Analyst and Consultant... 
 
 ## 1. [Airbnb '90-day' Regulation Strategy Evaluation](https://github.com/Cihshee/CASA0013_BugAvenger) 

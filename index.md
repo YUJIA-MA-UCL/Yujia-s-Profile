@@ -1,11 +1,8 @@
 ---
-title: Home
+title: Projects
 layout: home
 ---
-
-Yujia1208
 **Hi! I'm Yujia! Welcome to My Portfolio!**
-
 ---
 title: Data Analysis Projects
 layout: data analysis projects
@@ -40,17 +37,18 @@ Airbnb平台‘90天’规管策略分析 ——
 
 *UCL-CASA0002城市建模（Urban Simulation）Coursework Project (**DISTINCTION-A+** ❤️‍🔥)*
 
-### 5. [Assessing Urban War Damage in Kharkiv and Mariupol, Ukraine Using Sentinel-1 Imagery](https://yujia-ma-ucl.github.io/SixQL.github.io/)
+## 5. [Assessing Urban War Damage in Kharkiv and Mariupol, Ukraine Using Sentinel-1 Imagery](https://yujia-ma-ucl.github.io/SixQL.github.io/)
 
 基于S1影像的乌克兰战争城市损毁检测程序设计——
 
 *UCL-CASA0025运用大数据构建空间系统（Bulding Spatial Applications with Big Data）Group Project*
 
-### 6. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 
+## 6. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 
 
 构建衡量北京市城市综合公园的开放共享潜力的评估体系，为推动[城市公园绿地开放共享政策](https://www.gov.cn/zhengce/zhengceku/2023-02/06/content_5740376.htm)北京落地工作提供参考和依据 —— 
 
-*发表于中文核心期刊《风景园林》2024.10* 🔗 DOI:10.3724/j.fjyl.202312130561
+*发表于中文核心期刊《风景园林》2024.10 🔗 DOI:10.3724/j.fjyl.202312130561*
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).

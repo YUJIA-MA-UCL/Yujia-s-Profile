@@ -1,17 +1,14 @@
 ---
 title: Projects
 layout: home
-nav_order: 1
-description: "Projects"
 ---
-**Hi! I'm Yujia! Welcome to My Portfolio!**
----
+# Hi! I'm Yujia! Welcome to My Portfolio!
 
-#  My Growing Path As a Data Analyst and Consultant... 
+**My Growing Path As a Spatial Data Analyst and Consultant...**
 
 ## 1. [Airbnb '90-day' Regulation Strategy Evaluation](https://github.com/Cihshee/CASA0013_BugAvenger) 
 
-Airbnb平台‘90天’规管策略分析 —— 
+Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦敦的Airbnb平台“90天条例”策略对平台营收及伦敦长租市场的全局影响程度。
 
 *UCL-CASA0013空间数据科学基础（Foundations of Spatial Data Science）Group Project (**DISTINCTION** ❤️‍🔥)*
 
@@ -19,7 +16,7 @@ Airbnb平台‘90天’规管策略分析 ——
 
 夏洛特市安全街道设施提升计划 —— 
 
-*UCL-CASA0005地理信息系统科学（Geographic Information Systems and Science）Exam Project*
+*UCL-CASA0005地理信息系统科学（Geographic Information Systems and Science）Exam Project (**DISTINCTION** ❤️‍🔥)*
 
 ## 3. [Regional Socioeconomic and Environmental Factors Influencing Child Obesity Prevalence in London](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London)
 

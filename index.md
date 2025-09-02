@@ -7,7 +7,7 @@ nav_order: 1
 
 **My Growing Path As a Spatial Data Analyst and Consultant...**
 
-## 1. [Airbnb '90-day' Regulation Strategy Evaluation](https://github.com/Cihshee/CASA0013_BugAvenger) 
+## 1. [Airbnb '90-day' Regulation Strategy Evaluation](https://yujia-ma-ucl.github.io/Yujia-s-Profile/docs/01.html) 
 
 Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦敦的Airbnb平台“90天条例”策略对平台营收及伦敦长租市场的全局影响程度。
 

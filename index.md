@@ -29,13 +29,13 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 
 [Open in GitHub](https://github.com/YUJIA-MA-UCL/UrbSIM_tube_retail.git){: .btn }
 
-## 4. [Assessing Urban War Damage in Kharkiv and Mariupol, Ukraine Using Sentinel-1 Imagery](https://yujia-ma-ucl.github.io/SixQL.github.io/)
+## 4. [Assessing Urban War Damage in Kharkiv and Mariupol, Ukraine Using Sentinel-1 Imagery]()
 
 基于S1影像的乌克兰战争城市损毁检测程序设计 —— 通过机器学习算法，比对战前、战后的空间影像图，并得出有显著损毁的区域，叠加建筑与道路要素，得出被损毁的建筑与道路，用于战后重建。
 
 [Open in GitHub](https://yujia-ma-ucl.github.io/SixQL.github.io/){: .btn }
 
-*UCL-CASA0025运用大数据构建空间系统（Bulding Spatial Applications with Big Data）Group Project*
+[APP](https://ee-yiyaocui.projects.earthengine.app/view/ukraine-buildings-and-roads-damage-assessment){: .btn .btn-purple}
 
 ## 5. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 
 

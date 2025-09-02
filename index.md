@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Home
 layout: default
 nav_order: 1
 ---
@@ -28,8 +28,6 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 伦敦交通流动性模拟与商店选址优化 —— 运用开放数据对伦敦地铁、步行网络进行建模，模拟站点关闭对人口流动的影响以及新商铺最佳选址。
 
 [Open in GitHub](https://github.com/YUJIA-MA-UCL/CASA02-FinalAssessment.git){: .btn }
-
-*UCL-CASA0002城市建模（Urban Simulation）Coursework Project (**DISTINCTION-A+**)*
 
 ## 4. [Assessing Urban War Damage in Kharkiv and Mariupol, Ukraine Using Sentinel-1 Imagery](https://yujia-ma-ucl.github.io/SixQL.github.io/)
 

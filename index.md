@@ -13,21 +13,15 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 
 [Open in GitHub](https://github.com/Cihshee/CASA0013_BugAvenger){: .btn }
 
-*UCL-CASA0013空间数据科学基础（Foundations of Spatial Data Science）Group Project (**DISTINCTION**)*
-
 ## 2. [Childhood Obesity and Spatial Inequalities in London: From Socioeconomic Determinants to Spatial Clustering](https://yujia-ma-ucl.github.io/Yujia-s-Profile/docs/01.html)
 
 伦敦儿童肥胖与空间不平等：从社会经济决定因素到空间聚集
 
 探究影响伦敦儿童肥胖率的社会与环境因素及其关系 —— 以*OLS线性回归*模型作为基线模型，通过*决策树与随机森林模型*对结果进行优化，得出影响伦敦儿童肥胖率达三个核心社会经济要素；并使用空间聚类算法计算出儿童肥胖与社会剥夺的聚集风险区域，作为后续优先进行政策干预的区域。
 
-[Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
+[1. Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
 
-*UCL-CASA0007定量方法（Quantitative Methods）Coursework Project (**DISTINCTION**)*
-
-[Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
-
-*UCL-CASA0006空间系统数据科学（Data Science for Spatial Systems）Coursework Project (**DISTINCTION**)*
+[2. Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa0006_childhood_obesity.git){: .btn }
 
 ## 3. [Transport Simulation and Location of Stores Optimisation in London](https://github.com/YUJIA-MA-UCL/CASA02-FinalAssessment.git)
 

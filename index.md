@@ -24,7 +24,7 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 [Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
 *UCL-CASA0007定量方法（Quantitative Methods）Coursework Project (**DISTINCTION**)*
 
-[Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn .btn-purple }
+[Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
 *UCL-CASA0006空间系统数据科学（Data Science for Spatial Systems）Coursework Project (**DISTINCTION**)*
 
 ## 3. [Transport Simulation and Location of Stores Optimisation in London](https://github.com/YUJIA-MA-UCL/CASA02-FinalAssessment.git)
@@ -38,14 +38,14 @@ Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦�
 
 基于S1影像的乌克兰战争城市损毁检测程序设计 —— 通过机器学习算法，比对战前、战后的空间影像图，并得出有显著损毁的区域，叠加建筑与道路要素，得出被损毁的建筑与道路，用于战后重建。
 
-[Open in GitHub](https://yujia-ma-ucl.github.io/SixQL.github.io/)
+[Open in GitHub](https://yujia-ma-ucl.github.io/SixQL.github.io/){: .btn }
 *UCL-CASA0025运用大数据构建空间系统（Bulding Spatial Applications with Big Data）Group Project*
 
 ## 5. [北京市城市公园开放共享适宜度评估与政策实施研究](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561) 
 
 构建衡量北京市城市综合公园的开放共享潜力的评估体系，为推动[城市公园绿地开放共享政策](https://www.gov.cn/zhengce/zhengceku/2023-02/06/content_5740376.htm)北京落地工作提供参考和依据。
 
-[Paper](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561)
+[Paper](http://www.lalavision.com/en/article/doi/10.3724/j.fjyl.202312130561){: .btn }
 *发表于中文北大核心期刊《风景园林》2024.10*
 
 ----

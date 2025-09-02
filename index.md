@@ -11,19 +11,19 @@ nav_order: 1
 
 Airbnb平台‘90天’规管策略分析 —— 运用开放数据，模拟伦敦的Airbnb平台“90天条例”策略对平台营收及伦敦长租市场的全局影响程度。
 
-🔗 https://github.com/Cihshee/CASA0013_BugAvenger
+[Open in GitHub](https://github.com/Cihshee/CASA0013_BugAvenger){: .btn }
 
 *UCL-CASA0013空间数据科学基础（Foundations of Spatial Data Science）Group Project (**DISTINCTION** ❤️‍🔥)*
 
 ## 2. [Regional Socioeconomic and Environmental Factors Influencing Child Obesity Prevalence in London](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London)
 
-🔗 https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London
+[Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
 
 *UCL-CASA0007定量方法（Quantitative Methods）Coursework Project (**DISTINCTION** ❤️‍🔥)*
 
 ### [Exploring the Relationship and Impact of Spatial Social Inequality on Childhood Obesity Prevalence in London](https://github.com/YUJIA-MA-UCL/Casa0006_childhood_obesity/blob/810c8f5996d1d417867add507157f9a0a76d136b/CASA0006_Exploring%20the%20Relationship%20and%20Impact%20of%20Spatial%20Social%20Inequality%20on%20Childhood%20Obesity%20Prevalence%20in%20London.pdf)
 
-🔗 https://github.com/YUJIA-MA-UCL/Casa0006_childhood_obesity/blob/810c8f5996d1d417867add507157f9a0a76d136b/CASA0006_Exploring%20the%20Relationship%20and%20Impact%20of%20Spatial%20Social%20Inequality%20on%20Childhood%20Obesity%20Prevalence%20in%20London.pdf
+🔗 [Open in GitHub](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London){: .btn }
 
 *UCL-CASA0006空间系统数据科学（Data Science for Spatial Systems）Coursework Project (**DISTINCTION** ❤️‍🔥)*
 
